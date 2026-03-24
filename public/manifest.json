@@ -1,0 +1,28 @@
+{
+  "name": "İ'câzü'l-Kur'ân — The Inimitability of the Qur'an",
+  "short_name": "İ'câzü'l-Kur'ân",
+  "description": "Multi-source platform exploring the miraculous nature of the Qur'an through scholarly perspectives",
+  "start_url": "/ijazulquran/",
+  "scope": "/ijazulquran/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F5F0E8",
+  "theme_color": "#C99800",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "books"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
